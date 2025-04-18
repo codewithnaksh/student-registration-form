@@ -3,7 +3,7 @@
 A clean and responsive **Student Registration Form** built entirely with **pure HTML**.  
 This project demonstrates fundamental web development skills, semantic markup, and form handling best practices — all without using any external libraries or frameworks.
 
-![Student Registration Form Screenshot](screenshot.png) <!-- You can update this if you add an image -->
+
 
 ---
 
@@ -30,7 +30,7 @@ This project demonstrates fundamental web development skills, semantic markup, a
 
 > *Here’s a quick look at the form design:*
 
-![Form Preview](preview.gif) <!-- Optional: Add a GIF or screenshot of the form in action -->
+![Form Preview](preview.png) <!-- Optional: Add a GIF or screenshot of the form in action -->
 
 ---
 
